@@ -1,3 +1,3 @@
 Name: Ironhacker
-Age: 25
-Favorite Color: Yellow
+Age: 25 years old
+Favorite Color: YellowGreen
